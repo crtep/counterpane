@@ -21,7 +21,7 @@ def table(data, row_labels=None, col_labels=None, key=None, unicode=True, spaces
     
     Usage:
     
-    >>> from gridtable import table
+    >>> from counterpane import table
     >>> print(table([["cat", "horse", "least\nweasel"], ["blue-\ntongued\nskink", "T. rex", "dog"]]))
     
          cat │  horse │  least 
