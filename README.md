@@ -1,11 +1,11 @@
-# gridtable
+# counterpane
 
 Given a grid of short multiline strings, assemble it into a 2D text-based table.
     
 Usage:
 
 ```python
->>> from gridtable import table
+>>> from counterpane import table
 >>> table([["cat", "horse", "least\nweasel"], ["blue-\ntongued\nskink", "T. rex", "dog"]])
 
 """
